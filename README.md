@@ -5,6 +5,7 @@ new feature added.
 
 ###### Tested on iRO (with EAC)
 
-#### If it helped, you can always leave a tip:
+#### How to use
+1. download the latest [release](https://github.com/areur3ady/RagnarokSkillSpammer/releases) exe file and run it as admin.
 
 
